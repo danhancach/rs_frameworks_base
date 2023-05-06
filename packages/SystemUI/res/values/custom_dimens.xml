@@ -118,4 +118,11 @@
     <!-- A11 QS style -->  
     <dimen name="custom_qs_panel_padding_top">0dp</dimen>
     <dimen name="custom_notification_row_padding">16dp</dimen>
+    
+    <!-- Status bar logo -->  
+    <dimen name="statusbar_logo_size">24dp</dimen>
+
+    <!-- Status bar center clock (status_bar_center_clock_top_margin + status_bar_center_clock_bottom_margin = 10dp)-->  
+    <dimen name="status_bar_center_clock_top_margin">7.5dp</dimen>
+    <dimen name="status_bar_center_clock_bottom_margin">2.5dp</dimen>
 </resources>
