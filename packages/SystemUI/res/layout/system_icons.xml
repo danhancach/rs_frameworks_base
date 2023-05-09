@@ -56,6 +56,8 @@
             android:singleLine="true"
             android:paddingStart="@dimen/status_bar_clock_starting_padding"
             android:paddingEnd="@dimen/status_bar_clock_end_padding"
+            android:layout_marginTop="@dimen/status_bar_clock_top_margin"
+            android:layout_marginBottom="@dimen/status_bar_clock_bottom_margin"
             android:gravity="center_vertical|start"
             android:visibility="gone"
             systemui:isStatusBar="true"

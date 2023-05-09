@@ -122,9 +122,10 @@
     <!-- Status bar logo -->  
     <dimen name="statusbar_logo_size">24dp</dimen>
 
-    <!-- Status bar center clock (status_bar_center_clock_top_margin + status_bar_center_clock_bottom_margin = 10dp)-->  
-    <dimen name="status_bar_center_clock_top_margin">7.5dp</dimen>
-    <dimen name="status_bar_center_clock_bottom_margin">2.5dp</dimen>
+    <!-- Status bar center clock (status_bar_clock_top_margin + status_bar_clock_bottom_margin = 10dp)-->  
+    <dimen name="status_bar_clock_top_margin">5dp</dimen>
+    <dimen name="status_bar_clock_bottom_margin">5dp</dimen>
+    <dimen name="status_bar_padding_top_insets">0dp</dimen>
     
     <!-- Volume app icon -->  
     <dimen name="volume_app_icon_max_size">108dp</dimen>
