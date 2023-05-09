@@ -125,4 +125,7 @@
     <!-- Status bar center clock (status_bar_center_clock_top_margin + status_bar_center_clock_bottom_margin = 10dp)-->  
     <dimen name="status_bar_center_clock_top_margin">7.5dp</dimen>
     <dimen name="status_bar_center_clock_bottom_margin">2.5dp</dimen>
+    
+    <!-- Volume app icon -->  
+    <dimen name="volume_app_icon_max_size">108dp</dimen>
 </resources>
